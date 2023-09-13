@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Gauss.dir/Gauss_autogen/mocs_compilation.cpp.o CMakeFiles/Gauss.dir/main.cpp.o -o Gauss  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
